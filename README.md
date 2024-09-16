@@ -42,10 +42,3 @@ Styles the layout and appearance, including form elements and contact list.
 
 - **Adding an Entry**: Enter `Ronald`, `123-456-7890`, and `Colleague` in the form and click "Add Entry."
 - **Sorting Entries**: Select "Sort by Name" or "Sort by Phone Number" from the dropdown.
-
-## Challenges and Wins
-
-- **Challenges**: Implementing and debugging the sorting functionality, handling user input validation.
-- **Wins**: Effective sorting using JavaScript, user-friendly interface.
-
-"# Phone-Book-Web-Application" 
