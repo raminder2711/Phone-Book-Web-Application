@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #94bbe9;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+input, button, select {
+    margin: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+#sortOptions {
+    background-color:#94d6e9;
+}
